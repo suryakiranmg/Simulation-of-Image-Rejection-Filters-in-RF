@@ -1,3 +1,4 @@
+% Weaver Image Reject Filter
 clc;clear all;
 costheta = 0:.01:1; theta = acos(costheta);%rad
 figure;title('IRR (dB)  vs  Theta (rad)');
